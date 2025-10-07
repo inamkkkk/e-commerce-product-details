@@ -1,0 +1,30 @@
+# Flutter/Dart-specific ignores
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+android/
+ios/
+lib/**.g.dart
+lib/**.freezed.dart
+lib/**.chopper.dart
+*.apk
+*.ipa
+# General ignores
+.DS_Store
+Thumbs.db
+*.log
+/build/
+/ios/Pods/
+/ios/.symlinks/
+/ios/Frameworks/
+/ios/Flutter.framework/
+/android/app/build/
+/android/.gradle/
+/android/gradle/wrapper/
+.idea/
+*.iml
+*.swp
+*.swo
+*~
+*.bak
